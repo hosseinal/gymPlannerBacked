@@ -1,3 +1,0 @@
-DROP TABLE IF EXISTS plan_details;
-DROP TABLE IF EXISTS plans;
-DROP TABLE IF EXISTS users; 
